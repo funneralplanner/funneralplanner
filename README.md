@@ -1,4 +1,4 @@
-<h1> @fun-neralplanner </h1>
+<h1> fun-neralplanner </h1>
 
 <h2> I'm interested in: </h2>
 <p> 
